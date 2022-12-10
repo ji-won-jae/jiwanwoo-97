@@ -16,6 +16,7 @@
 <h3 align="center">:zap: tools :zap:</h3> 
 <p align="center">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/SVN-F2CA30?style=flat">
 </p>
