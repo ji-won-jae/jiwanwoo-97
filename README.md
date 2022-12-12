@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
 
 </p>
-<h3 align="center">:zap: tools :zap:</h3> 
+<h3 align="center">:zap: Tools :zap:</h3> 
 <p align="center">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
