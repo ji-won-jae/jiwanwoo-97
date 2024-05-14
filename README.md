@@ -1,22 +1,5 @@
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+안녕하세요! 3년차 Java 백엔드 개발자 지완우입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=Jinsim's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Thymeleaf-3FE669?style=flat&logo=Thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white">
-
-</p>
-<h3 align="center">:zap: Tools :zap:</h3> 
-<p align="center">
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-</p>
-
-
-<div align="center">
-
-</div>
+<br/>
