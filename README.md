@@ -5,4 +5,7 @@
 
 [![blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=gatsby&logoColor=white)](https://97class.tistory.com/)
 [![portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=readme&logoColor=white)](https://www.notion.so/wanoo-97/Backend-Engineer-Web-Developer-df7223ac3a5e49d0909084eaf1dd27c6)
-[![experience](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=readme&logoColor=white)](https://wanoo-97.notion.site/191770916e894c488f1bb23fe48b34be?pvs=4)
+[![experience](https://img.shields.io/badge/EXPERIENCE-000000?style=for-the-badge&logo=readme&logoColor=white)](https://wanoo-97.notion.site/191770916e894c488f1bb23fe48b34be?pvs=4)
+
+
+
