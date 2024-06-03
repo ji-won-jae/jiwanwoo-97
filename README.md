@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=jiwanwoo-97%20Github%20&fontSize=30&fontColor=ffffff&fontAlignY=38&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=won-jae%20Github%20&fontSize=30&fontColor=ffffff&fontAlignY=38&animation=twinkling)
 
 이슈에 대한 호기심, 열정으로 가득 차 있는 개발자입니다. 더 나은 방향으로 나아가기 위해 노력하는 제 모습을 지속적으로 발전시켜 나가겠습니다.
 
